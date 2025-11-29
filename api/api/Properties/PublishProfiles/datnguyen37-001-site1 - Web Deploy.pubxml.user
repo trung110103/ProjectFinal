@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv9+YfAdfpEerg2t/rjyYxgAAAAACAAAAAAAQZgAAAAEAACAAAADSdZZ3tGIefE+7fS70DXpedZgi1SKrJz5OOW03RsOlxgAAAAAOgAAAAAIAACAAAAARNCg1nuRq3+FfrK5miHhAKc07JArKioadcJ1qLpe2OyAAAACIXdRnEkWktC+ZPF9KXVfwkw4M4x/LmtGUawPwWQND20AAAADFXFIuv2PGglY1TRwzifd+Li/ijRNiVj2ZMiZW3ivhRJTqsuhdBkdQV+L+XZ1ddFfyYAbxWphqtCm/mqx9rW0+</EncryptedPassword>
+    <History>True|2024-10-15T17:09:11.6476297Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL5112.site4now.net%3bInitial Catalog=db_aae4a9_login%3bUser Id=db_aae4a9_login_admin%3bPassword=Datnguyen12%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="api.Data.AppDbContext">
+      <Value>Data Source=SQL5112.site4now.net%3bInitial Catalog=db_aae4a9_login%3bUser Id=db_aae4a9_login_admin%3bPassword=Datnguyen12%40</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
