@@ -26,8 +26,10 @@ Dự án là một hệ thống thương mại điện tử hoàn chỉnh phục
 
 ### Home Page
 <img width="1869" height="813" alt="image" src="https://github.com/user-attachments/assets/9575a850-2d39-4c62-9f06-dbdde5440db3" />
+
 ### Admin Dashboard
 <img width="460" height="209" alt="image" src="https://github.com/user-attachments/assets/2ae4d9c6-95b4-48a5-84e2-c628f9c3eb32" />
+
 ## 🔧 Installation & Setup
 
 ### 1. Backend (API)
